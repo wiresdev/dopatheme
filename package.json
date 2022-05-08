@@ -1,0 +1,22 @@
+{
+    "name": "dopatheme",
+    "displayName": "Dopatheme",
+    "description": "Maximize your dopamine from coding.",
+    "version": "0.0.3",
+    "publisher": "Wires",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dopatheme",
+                "uiTheme": "hc-light",
+                "path": "./themes/Dopatheme-color-theme.json"
+            }
+        ]
+    }
+}
