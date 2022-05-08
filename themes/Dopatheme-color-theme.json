@@ -190,6 +190,8 @@
 		"statusBarItem.prominentHoverBackground": "#00000030",
 		"statusBarItem.remoteBackground": "#8d75ef",
 		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.warningBackground": "#000000",
+        "statusBarItem.warningForeground": "#ffffff",
 		"titleBar.activeBackground": "#f8f9fa",
 		"titleBar.activeForeground": "#5c6166",
 		"titleBar.inactiveBackground": "#f8f9fa",
